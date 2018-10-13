@@ -1,0 +1,20 @@
+{
+	"interval":5000,
+	"devices":[	
+		{
+			"interval":3000,
+			"info":"0x7547 192.168.1.241 112131415161",
+			"name":"Living Room"
+		},
+		{
+			"interval":3000,
+			"info":"0x7547 192.168.1.242 122232425262",
+			"name":"Bed Room"
+		},
+		{
+			"interval":3000,
+			"info":"0x7547 192.168.1.243 132333435363",
+			"name":"Garden"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+body {
+	color: #454545;
+	background-color: white;
+	font-family: Verdana;
+	font-size: 60px;
+}
+
+.fullw  {
+	width: 100%;
+ }
+
+.row {
+	clear: both;
+	height: 80px;
+	padding-top: 4px;
+	border-bottom-color: #999da0;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+.col1 {
+	float: left;
+}
+
+.col2 {
+	float: right;
+	width: 140px;
+	padding: 0px;
+}
+
+.power_sw {
+	width: 132px;
+	height: 74px;
+}
